@@ -1,5 +1,6 @@
 const EthereumTx = require("ethereumjs-tx").Transaction;
 const Web3 = require("web3");
+/* create a raw transaction */
 
 //使用infura提供的远程ropsten测试网节点
 const web3 = new Web3(

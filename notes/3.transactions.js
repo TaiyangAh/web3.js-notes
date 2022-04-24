@@ -1,4 +1,5 @@
 const Web3 = require("web3");
+/* create a transaction with Ganache*/
 
 //本地ganache测试网
 const web3 = new Web3("HTTP://127.0.0.1:7545");
